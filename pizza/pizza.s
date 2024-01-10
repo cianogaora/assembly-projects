@@ -2,6 +2,7 @@
 .text
 
 _start:
+
 	#size prompt
 	mov r0, #1
 	ldr r1, =pizza1_prompt
